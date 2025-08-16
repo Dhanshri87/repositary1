@@ -8,10 +8,10 @@ jobs:
  build:
   runs-on: ubuntu-latest
 
- steps:
+  steps:
     - run: ls 
     - run: pwd
     - run: git4
     - name: list
-      run:ls
+      run: ls
                                                           
