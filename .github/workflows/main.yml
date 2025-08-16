@@ -11,7 +11,7 @@ jobs:
   steps:
     - run: ls 
     - run: pwd
-    - run: gitA
+    - run: touch gitA
     - name: list
       run: ls
                                                           
