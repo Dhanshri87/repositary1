@@ -11,7 +11,7 @@ jobs:
   steps:
     - run: ls 
     - run: pwd
-    - run: git4
+    - run: gitA
     - name: list
       run: ls
                                                           
